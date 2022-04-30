@@ -1,6 +1,7 @@
-#include <iostream>
+/*
+#include <stdio.h>
 
-#define p(m) std::cout << m << std::endl;
+#define p(m) printf("%d\n",m);
 
 void incr_ptr(int* value) {
 	(*value)++;
@@ -16,13 +17,13 @@ int main() {
 	int var = 44;
 	int* ptr = &var;
 	p(*ptr)
-	// Allocating memory
+		// Allocating memory
 
-	char* buff = new char[8];
-	memset(buff, 0, 1);
-	buff[0] = 'm';
-	p(*buff);
-	delete[] buff;
+	//char* buff = new char[8];
+	//memset(buff, 0, 1);
+	//buff[0] = 'm';
+	//p(*buff);
+	//delete[] buff;
 
 	// Pass by reference 2 ways
 	p(var);
@@ -31,3 +32,4 @@ int main() {
 	incr_ref(var);
 	p(var);
 }
+*/
