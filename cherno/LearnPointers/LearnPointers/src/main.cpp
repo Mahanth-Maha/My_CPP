@@ -5,7 +5,7 @@
 void incr_ptr(int* value) {
 	(*value)++;
 }
-
+//cleaner compared to above
 void incr_ref(int& value) {
 	value++;
 }
@@ -16,6 +16,12 @@ int main() {
 	int var = 44;
 	int* ptr = &var;
 	p(*ptr)
+
+    // references
+	int& ref = var;
+	//once ref is set we cant change it ( no re assign this to new var ref)
+	int newvar = 12;
+	ref = newvar;
 	// Allocating memory
 
 	char* buff = new char[8];
