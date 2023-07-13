@@ -397,7 +397,7 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
-.cph/
+# .cph/
 *.exe
 .vscode/
 

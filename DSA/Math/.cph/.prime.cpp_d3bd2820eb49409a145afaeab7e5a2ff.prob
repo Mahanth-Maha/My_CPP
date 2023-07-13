@@ -1,0 +1,1 @@
+{"name":"Local: prime","url":"c:\\Users\\yalla\\Github\\My_CPP\\DSA\\Math\\prime.cpp","tests":[{"id":1689264922804,"input":"9\n1\n2\n3\n4\n5\n6\n13\n49\n1327","output":"0\n1\n1\n0\n1\n0\n1\n0\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\yalla\\Github\\My_CPP\\DSA\\Math\\prime.cpp","group":"local","local":true}
