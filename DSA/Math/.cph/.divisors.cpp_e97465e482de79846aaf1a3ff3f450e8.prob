@@ -1,1 +1,0 @@
-{"name":"Local: divisors","url":"c:\\Users\\yalla\\Github\\My_CPP\\DSA\\Math\\divisors.cpp","tests":[{"id":1689267262050,"input":"1\n12","output":"1 2 3 4 6 12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\yalla\\Github\\My_CPP\\DSA\\Math\\divisors.cpp","group":"local","local":true}

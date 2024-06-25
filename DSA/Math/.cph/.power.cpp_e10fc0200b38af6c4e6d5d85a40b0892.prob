@@ -1,1 +1,0 @@
-{"name":"Local: power","url":"c:\\Users\\yalla\\Github\\My_CPP\\DSA\\Math\\power.cpp","tests":[{"id":1689268498656,"input":"2\n4 3\n2 10","output":"64\n1024"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\yalla\\Github\\My_CPP\\DSA\\Math\\power.cpp","group":"local","local":true}
